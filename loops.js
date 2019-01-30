@@ -10,7 +10,7 @@ function forLoop(array) {
 }
 
 function whileLoop(n){
-  let countdown
+  let countdown = n;
 }
 
   
