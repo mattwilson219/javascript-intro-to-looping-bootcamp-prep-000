@@ -23,7 +23,9 @@ function doWhileLoop(array) {
   }
 }
 
-do 
+do {
+  array.pop
+}
 
   
 
